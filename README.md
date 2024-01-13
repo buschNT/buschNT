@@ -13,9 +13,6 @@ I'm a software engineer focused on cloud native application development.
         <li>
             <a href="mailto:chris.busch.22@gmail.com" target="_blank">Email</a>
         </li>
-        <li>
-            <a href="https://twitter.com/buschNT" target="_blank">Twitter</a>
-        </li>
     </ul>
 </p>
 
